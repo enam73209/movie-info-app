@@ -35,12 +35,14 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/your-username/movie-info-app.git
    cd movie-info-app
+
 2. **Install dependencies:**
   ```bash
      npm install
+
 3.  **Start the development server:**
     ```bash
-    npm run dev
+       npm run dev
 
 
 ## Usage
