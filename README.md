@@ -37,8 +37,8 @@ Ensure you have the following installed:
    cd movie-info-app
 
 2. **Install dependencies:**
-  ```bash
-     npm install
+   ```bash
+   npm install
 
 3.  **Start the development server:**
     ```bash
