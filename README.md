@@ -46,5 +46,5 @@ Ensure you have the following installed:
 
 
 ## Usage
-**View Movies**: On the landing page, the app fetches and displays a list of movies from the Firebase database.
-**Add Movie**: Click on the "Add a New Movie" button to open a modal where you can input the movie's title, opening text, and release date. The new movie will be saved in the Firebase database and displayed on the list.
+- **View Movies**: On the landing page, the app fetches and displays a list of movies from the Firebase database.
+- **Add Movie**: Click on the "Add a New Movie" button to open a modal where you can input the movie's title, opening text, and release date. The new movie will be saved in the Firebase database and displayed on the list.
